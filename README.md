@@ -1,4 +1,4 @@
-# GreenClothaWay
+# GreenClothaWay an amazing project
 
 ## prerequisites
 `python >= 3.6`
